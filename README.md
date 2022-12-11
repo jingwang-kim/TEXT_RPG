@@ -1,6 +1,6 @@
 # TEXT_RPG
-## It's a collaboration project with Choi Yoon-soo, Oh Hyun-sik, and Yoo Jeong-min
-## It's similar to Pokemon.
+It's a collaboration project with Choi Yoon-soo, Oh Hyun-sik, and Yoo Jeong-min
+It's similar to Pokemon.
 
 # TEXT_RPG 소개
 포켓몬스터와 유사한 프로그램이며, 게임 플레이어는 공격, 스킬, 회복 중 하나를 선택할 수 있습니다.
